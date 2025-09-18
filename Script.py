@@ -116,20 +116,14 @@ Added By - {}
     RESULT_TXT="""<blockquote> Hey,     </blockquote>
 <blockquote>Jᴜsᴛ Sᴇᴇ Wʜᴀᴛ I Found Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ </blockquote>"""
 
-    CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-FɪʟᴇSɪᴢᴇ : {file_size}
+    CUSTOM_FILE_CAPTION = """<b>🎬 Nᴀᴍᴇ: ➠ <a href="https://t.me/moviemediachannel">{file_name}</a></b>
 
-╔═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs   ═╗
- Jᴏɪɴ :- [Mᴀɪɴ Cʜᴀɴɴᴇʟ](https://t.me/CFUpdates)
- Jᴏɪɴ :- [Movie Group 1](https://t.me/MoviepubGroup)
- Jᴏɪɴ :- [Movie Group 2](https://t.me/Moviepub1)
-╚═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs    ═╝
+<b>📦 Sɪᴢᴇ:  {file_size}</b>
 
-⚠️ <b>❗️❗️❗️IMPORTANT❗️️❗️❗️
+<b>╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════📥 Jᴏɪɴ Cʜᴀɴɴᴇʟ : <a href="https://t.me/CFUpdates">Cʟɪᴄᴋ Hᴇʀᴇ</a>
+╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝</b>
 
-This Movie File/Video will be deleted in 15 minutes  (Due to Copyright Issues).
-
-Please forward this File/Video to your Saved Messages and Start Download there</b>
+<b><a href="https://t.me/+UOaIyaHaTqg3Zjg9">╰┈➤ ᴄɪɴᴇꜰʟɪx ✩ ᴄᴏᴍᴍᴜɴɪᴛʏ</a></b>
 """
 
     
