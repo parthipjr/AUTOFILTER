@@ -120,7 +120,8 @@ Added By - {}
 
 <b>📦 Sɪᴢᴇ:  {file_size}</b>
 
-<b>╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════📥 Jᴏɪɴ Cʜᴀɴɴᴇʟ : <a href="https://t.me/CFUpdates">Cʟɪᴄᴋ Hᴇʀᴇ</a>
+<b>╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
+   📥 Jᴏɪɴ Cʜᴀɴɴᴇʟ : <a href="https://t.me/CFUpdates">Cʟɪᴄᴋ Hᴇʀᴇ</a>
 ╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝</b>
 
 <b><a href="https://t.me/+UOaIyaHaTqg3Zjg9">╰┈➤ ᴄɪɴᴇꜰʟɪx ✩ ᴄᴏᴍᴍᴜɴɪᴛʏ</a></b>
